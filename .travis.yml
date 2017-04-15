@@ -1,6 +1,3 @@
 language: ruby
 rvm:
   - 2.4.1
-before_script:
-  - unset JRUBY_OPTS
-script: ruby -Ilib exe/rake
