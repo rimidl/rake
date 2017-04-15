@@ -1,5 +1,5 @@
 = RAKE -- Ruby Make
-
+test
 home :: https://github.com/ruby/rake
 bugs :: https://github.com/ruby/rake/issues
 docs :: https://ruby.github.io/rake
